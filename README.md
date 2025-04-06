@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋"My name is Denton and I am testing to be a front-end developer. I hope someone can help me.
 
 <!--
 **wegame1968/WEGAME1968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
